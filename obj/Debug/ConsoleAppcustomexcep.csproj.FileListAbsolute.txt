@@ -1,0 +1,8 @@
+C:\Genpact\Day6\ConsoleAppcustomexcep\ConsoleAppcustomexcep\bin\Debug\ConsoleAppcustomexcep.exe.config
+C:\Genpact\Day6\ConsoleAppcustomexcep\ConsoleAppcustomexcep\bin\Debug\ConsoleAppcustomexcep.exe
+C:\Genpact\Day6\ConsoleAppcustomexcep\ConsoleAppcustomexcep\bin\Debug\ConsoleAppcustomexcep.pdb
+C:\Genpact\Day6\ConsoleAppcustomexcep\ConsoleAppcustomexcep\obj\Debug\ConsoleAppcustomexcep.csproj.AssemblyReference.cache
+C:\Genpact\Day6\ConsoleAppcustomexcep\ConsoleAppcustomexcep\obj\Debug\ConsoleAppcustomexcep.csproj.SuggestedBindingRedirects.cache
+C:\Genpact\Day6\ConsoleAppcustomexcep\ConsoleAppcustomexcep\obj\Debug\ConsoleAppcustomexcep.csproj.CoreCompileInputs.cache
+C:\Genpact\Day6\ConsoleAppcustomexcep\ConsoleAppcustomexcep\obj\Debug\ConsoleAppcustomexcep.exe
+C:\Genpact\Day6\ConsoleAppcustomexcep\ConsoleAppcustomexcep\obj\Debug\ConsoleAppcustomexcep.pdb
